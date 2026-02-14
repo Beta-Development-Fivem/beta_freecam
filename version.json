@@ -1,0 +1,13 @@
+{
+    "version": "1.0.0",
+    "download": "https://keymaster.fivem.net/",
+    "changelog": {
+        "1.0.0": [
+            "Initial release",
+            "Freecam with smooth movement",
+            "Portrait Mode (Depth of Field)",
+            "Multi-language support (6 languages)",
+            "Smart boundary system (distance, visibility, interior)"
+        ]
+    }
+}
